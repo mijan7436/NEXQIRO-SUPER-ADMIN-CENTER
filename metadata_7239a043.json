@@ -1,0 +1,6 @@
+{
+  "name": "NEXQIRO Admin Hub",
+  "description": "NEXQIRO Super Admin and User Admin balance control, security rules, and tournament management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

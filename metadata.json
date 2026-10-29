@@ -1,0 +1,6 @@
+{
+  "name": "NEXQIRO Admin Hub",
+  "description": "NEXQIRO Super Admin and User Admin balance control, manual payout approval, and tournament management system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
